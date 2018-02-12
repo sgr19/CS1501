@@ -1,0 +1,12 @@
+
+Approach: implement the DLB Trie using TreeMaps
+
+	The approach I used was to use a DLB Trie where every nth depth would be a TreeMap.
+ This means that all of the sibling nodes be within the same TreeMap and the child node at
+depth n would be in another. The value of the nth depth of the TreeMap would be the key of the (n+1)th depth and so on until
+it reaches the end of the word indicated by a (.). The user_history.txt is only saved when !
+is entered to exit.
+	I took this approach because the I wouldn't have to traverse through a list to find
+the key (sibling/ or child) as I would have with a Linked List. In addition, I chose a TreeMap because 
+I needed the keys/values to be in alphabetical order. I thought that after setting the sibling's
+value to the child's key would be a quicker way of finding the word by not having to traverse.
