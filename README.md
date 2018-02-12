@@ -4,10 +4,14 @@ Algorithm Implementations
 
 CS1501 in Spring 2018 at the University of Pittsburgh
 
-
+# Projects
 * Project 1:  Extensive search through a dictionary
   * Use a De La Briandais (DLB) trie to autocomplete
   *  When the user feeds letters, the autocomplete feature will try to guess what word
   a user wishes to type before they finish.
 
+# Writing Assignments
+* Writing Assignment 1: Using LSD Radix sort for a spreadsheet application
+  * The first page is to convince someone without technical background why LSD Radix sort is better
+  * The other pages describe to a technical audiencehow it compares to two other sorting algorithms 
 
