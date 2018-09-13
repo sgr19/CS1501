@@ -1,9 +1,9 @@
-#Project 2
+##Project 2
 Note: No files are present in example_files because they were .gitignore'd from the repository. This program should be able to compress any file regardless.
 
-#Goal: To understand the innerworkings and implementation of the LZW compression algorithm, and to gain a better understanding of the performance it offers.
+##Goal: To understand the innerworkings and implementation of the LZW compression algorithm, and to gain a better understanding of the performance it offers.
 
-#Description: 
+##Description: 
   *Modify the current LZW code provided by authors of the textbook to use variable-width codewords and rest codebook under certain conditions:
   *   myLZW.java will be a copy of LZW.java that will be modified
   *   myLZW.java will require BinaryStdIn.java, BinaryStdOut.java, TST.java, Queue.java, StdIn.java, and StdOut.java which are in the repository.
