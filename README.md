@@ -17,4 +17,6 @@ CS1501 in Spring 2018 at the University of Pittsburgh
 * Writing Assignment 1: Using LSD Radix sort for a spreadsheet application
   * The first page is to convince someone without technical background why LSD Radix sort is better
   * The other pages describe to a technical audiencehow it compares to two other sorting algorithms 
+* Writing Assignment 2: Describing changes with LZW compression
+  *  For the second writing assignment, you will be writing up a design document describing your proposed changes to LZW.java to create MyLZW.java for the second programming assignment. This document should map out how you plan to implement the requirements of the second programming assignment.
 
